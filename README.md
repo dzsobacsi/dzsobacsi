@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I am Tamás
+
+I am an accomplished engineering physicist with 20 years of experience in the nuclear industry currently navigating a career shift towards data science and software development. As a recent graduate of Le Wagon Data Science and AI bootcamp, I am looking for job opportunities in that field.
+
+**Repos I am proud of:**
+
+**Connect with me:**
+
+**Languages as tools:**
 
 <!--
 **dzsobacsi/dzsobacsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
