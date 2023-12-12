@@ -6,7 +6,12 @@ I am an accomplished engineering physicist with 20 years of experience in the nu
 
 **Connect with me:**
 
+[![linkedin](linkedin.png)][1]
+
 **Languages as tools:**
+
+
+[1]: https://www.linkedin.com/in/tamasberki
 
 <!--
 **dzsobacsi/dzsobacsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
