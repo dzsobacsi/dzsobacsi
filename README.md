@@ -1,6 +1,7 @@
 ## Hi there 👋, I am Tamás
 
-I am an accomplished engineering physicist with 20 years of experience in the nuclear industry currently navigating a career shift towards data science and software development. As a recent graduate of Le Wagon Data Science and AI bootcamp, I am looking for job opportunities in that field.
+
+I am an accomplished engineering physicist with 20 years of experience in the nuclear industry, currently navigating a career shift towards data science and software development. As a recent graduate of Le Wagon Data Science and AI bootcamp, I am seeking job opportunities in the field.
 
 **Repos I am proud of:**
 
