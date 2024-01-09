@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tamás</h1>
 <p>I am an accomplished engineering physicist with 20 years of experience in the nuclear industry, currently navigating a career shift towards data science and software development. As a recent graduate of the Le Wagon Data Science and AI bootcamp, I have learned exploratory data analysis and data visualization. I gained hands-on experience using machine learning libraries like Scikit-learn and TensorFlow. I am seeking job opportunities in the field.</p>
 
+<h3 align="left">Projects I am proud of:</h3>
+https://troopl.com/tberki77
+
 <h3 align="left">Main Skills:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
